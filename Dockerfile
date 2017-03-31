@@ -7,6 +7,7 @@ ENV JENKINS_SLAVE_AGENT_PORT 50000
 
 ARG user=root
 ARG group=root
+
 #ARG uid=1000
 #ARG gid=1000
 
